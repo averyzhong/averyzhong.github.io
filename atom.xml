@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://averyzhong.github.io/"/>
-  <updated>2020-02-09T10:06:20.885Z</updated>
+  <updated>2020-02-22T13:14:03.203Z</updated>
   <id>https://averyzhong.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>从零开始实现Android增量更新功能</title>
-    <link href="https://averyzhong.github.io/2020/02/09/andorid-hot-upgrade/"/>
-    <id>https://averyzhong.github.io/2020/02/09/andorid-hot-upgrade/</id>
-    <published>2020-02-09T01:25:00.000Z</published>
-    <updated>2020-02-09T10:06:20.885Z</updated>
+    <title>test</title>
+    <link href="https://averyzhong.github.io/2020/02/22/test/"/>
+    <id>https://averyzhong.github.io/2020/02/22/test/</id>
+    <published>2020-02-22T13:11:49.000Z</published>
+    <updated>2020-02-22T13:14:03.203Z</updated>
     
     <summary type="html">
     
@@ -29,11 +29,30 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;p&gt;&lt;video autoplay=&quot;&quot; controls=&quot;&quot; id=&quot;v&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始实现Android增量更新功能</title>
+    <link href="https://averyzhong.github.io/2020/02/09/andorid-hot-upgrade/"/>
+    <id>https://averyzhong.github.io/2020/02/09/andorid-hot-upgrade/</id>
+    <published>2020-02-09T01:25:00.000Z</published>
+    <updated>2020-02-22T13:19:30.590Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;video autoplay=&quot;&quot; controls=&quot;&quot; id=&quot;v&quot;
         
       
     
